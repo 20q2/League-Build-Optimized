@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450854938 source:c:\users\andrew\documents\programs\hello world\main.cpp
+	<stdio.h>
+	<iostream>
+	<curl/curl.h>
+
